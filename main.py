@@ -9,7 +9,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-username = "marevilspirit"
+username = "username"
 notify_head = "example"
 notify_title = "LeetCode刷题提醒"
 notify_icon = "/home/mars/utils/leetcode_logo.png"
