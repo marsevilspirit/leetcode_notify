@@ -22,12 +22,17 @@
 ## 安装
 
 1. 确保您的系统上安装了Python 3.6或更高版本。
+
 2. 安装所需的Python包：
    ```
    pip install selenium
    ```
+   
 3. 安装Chrome浏览器（如果尚未安装）。
+
 4. 下载与您的Chrome版本相匹配的ChromeDriver，并将其放置在`/usr/bin/`目录下（或更新脚本中的路径）。
+
+4. 安装notify-send。
 
 ## 配置
 
